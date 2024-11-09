@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+.bgcolor{
+    background-color: rgba(16, 16, 16, 0.853);
+    width:100%;
+    height:100%;
+}
+#geneatebtn{
+    background-color:pink;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+
+}
+#button{
+    background-color:pink;
+    width: 150px; ;
+    height: 50px;
+    border-radius: 20px;
+
+}
+.card{
+    background-color: black;
+}
+#productname{
+    width:55%;
+}
+#quantity{
+    width:55%;
+
+}
+#price{
+    width:55%;
+}
